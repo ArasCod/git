@@ -18,3 +18,9 @@ background-color: transparent;
 color: white;
 padding: 10px;
 }
+
+@media ( min-width: 768px){
+    .metaverse{
+        font-size: 2em;
+    }
+}
